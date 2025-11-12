@@ -6,7 +6,7 @@ A small, static To-Do List web app that stores tasks in the browser's localStora
 
 If you deployed this repository (for example to GitHub Pages or Netlify), add your live link below:
 
-Deployment URL: https://your-deployment-link.example.com/  <!-- Replace this with your actual link -->
+Deployment URL: https://laxmikant2002.github.io/Todo-List/  <!-- Replace this with your actual link -->
 
 ## Files
 
